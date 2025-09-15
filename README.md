@@ -16,3 +16,5 @@ https://scratch.mit.edu/projects/1217045438
 # Remixage de la carte du Canada
 https://scratch.mit.edu/projects/1217057018
 
+# Remixage utilisant le bloc stylo
+https://scratch.mit.edu/projects/1217103958
