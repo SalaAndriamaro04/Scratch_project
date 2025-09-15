@@ -13,3 +13,6 @@ https://scratch.mit.edu/projects/1217036011
 # Remixage avec des blocs existants
 https://scratch.mit.edu/projects/1217045438
 
+# Remixage de la carte du Canada
+https://scratch.mit.edu/projects/1217057018
+
