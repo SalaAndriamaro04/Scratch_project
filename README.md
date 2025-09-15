@@ -9,3 +9,7 @@ https://scratch.mit.edu/projects/1217027364
 
 # Création des questions
 https://scratch.mit.edu/projects/1217036011
+
+# Remixage avec des blocs existants
+https://scratch.mit.edu/projects/1217045438
+
